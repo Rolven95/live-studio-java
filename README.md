@@ -2,9 +2,10 @@
 Singleton service, accpet video urls, push stream, fack-live. 
 
 
-版权声明 Copyright Declaration:
+
+***版权声明 Copyright Declaration ***
 Limited by author's language ability, Copyright Declaration is written in Chinese.
-除作者特别授权的主体（被授权主体将在此项目文档中公示）外，任何人对此项目的使用需要遵守GPLv3开源协议。
+除作者特别授权的主体（被授权主体将在此项目文档中公示）外，任何主体对此项目的使用需要遵守GPLv3开源协议。
 2023年2月10日。
 ```
 GPLv3协议引用如下  Ghttps://www.gnu.org/licenses/gpl-3.0.txt
